@@ -297,8 +297,9 @@ export default function HomePage() {
       >
         api youtube channel UCRykoXOF-1jb0DS4P34NG6Q
       </a>
-      <h2>https://fastapi202507050418.onrender.comhttps://fastapi202507050418.onrender.comf="https://fastapi202507050418.onrender.com/api/hello"
-        target="_blank"
+      <h2>https://fastapi202507050418.onrender.com</h2>
+      <a
+        https:target="_blank" //fastapi202507050418.onrender.comf="https://fastapi202507050418.onrender.com/api/hello"
         rel="noopener noreferrer"
       >
         api hello
