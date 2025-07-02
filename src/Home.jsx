@@ -299,7 +299,8 @@ export default function HomePage() {
       </a>
       <h2>https://fastapi202507050418.onrender.com</h2>
       <a
-        https:target="_blank" //fastapi202507050418.onrender.comf="https://fastapi202507050418.onrender.com/api/hello"
+        href="https://fastapi202507050418.onrender.com/api/hello"
+        target="_blank"
         rel="noopener noreferrer"
       >
         api hello
